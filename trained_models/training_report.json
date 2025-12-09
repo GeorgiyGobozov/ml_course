@@ -1,0 +1,81 @@
+{
+  "dataset_name": "guitars",
+  "classes": [
+    "acoustic",
+    "bass",
+    "les paul",
+    "statocaster"
+  ],
+  "training_date": "2025-12-04 20:24:42",
+  "models": {
+    "Logistic_Regression": {
+      "accuracy": 0.875,
+      "f1_score": 0.8214285714285714,
+      "precision": 0.78125,
+      "recall": 0.875,
+      "train_time": 0.7946507930755615,
+      "predict_time": 0.0005283355712890625
+    },
+    "SVM_Linear": {
+      "accuracy": 0.875,
+      "f1_score": 0.8214285714285714,
+      "precision": 0.78125,
+      "recall": 0.875,
+      "train_time": 0.005726814270019531,
+      "predict_time": 0.000362396240234375
+    },
+    "SVM_RBF": {
+      "accuracy": 0.875,
+      "f1_score": 0.8214285714285714,
+      "precision": 0.78125,
+      "recall": 0.875,
+      "train_time": 0.006613969802856445,
+      "predict_time": 0.0006282329559326172
+    },
+    "Random_Forest": {
+      "accuracy": 0.875,
+      "f1_score": 0.825,
+      "precision": 0.7916666666666666,
+      "recall": 0.875,
+      "train_time": 0.08197236061096191,
+      "predict_time": 0.0018661022186279297
+    },
+    "KNN": {
+      "accuracy": 0.5,
+      "f1_score": 0.45,
+      "precision": 0.41666666666666663,
+      "recall": 0.5,
+      "train_time": 0.0006260871887207031,
+      "predict_time": 1.9500815868377686
+    },
+    "Decision_Tree": {
+      "accuracy": 0.75,
+      "f1_score": 0.75,
+      "precision": 0.75,
+      "recall": 0.75,
+      "train_time": 0.010132312774658203,
+      "predict_time": 0.00011587142944335938
+    },
+    "Naive_Bayes": {
+      "accuracy": 0.875,
+      "f1_score": 0.825,
+      "precision": 0.7916666666666666,
+      "recall": 0.875,
+      "train_time": 0.001146554946899414,
+      "predict_time": 0.00048613548278808594
+    },
+    "MLP": {
+      "accuracy": 0.875,
+      "f1_score": 0.8214285714285714,
+      "precision": 0.78125,
+      "recall": 0.875,
+      "train_time": 1.8279764652252197,
+      "predict_time": 0.0024881362915039062
+    }
+  },
+  "best_model": {
+    "name": "Logistic_Regression",
+    "accuracy": 0.875,
+    "f1_score": 0.8214285714285714
+  }
+}

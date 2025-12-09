@@ -1,0 +1,28 @@
+{
+  "dataset_name": "guitars",
+  "classes": [
+    "acoustic",
+    "bass",
+    "les paul",
+    "statocaster"
+  ],
+  "class_to_idx": {
+    "acoustic": 0,
+    "bass": 1,
+    "les paul": 2,
+    "statocaster": 3
+  },
+  "image_size": [
+    64,
+    64
+  ],
+  "grayscale": true,
+  "num_train": 26,
+  "num_val": 6,
+  "num_test": 8,
+  "input_shape": [
+    64,
+    64,
+    1
+  ]
+}

@@ -1,0 +1,7 @@
+Model,Accuracy,Train Time (s)
+Logistic Regression,0.7500,0.47
+SVM Linear,0.7500,0.01
+SVM RBF,0.7500,0.00
+Random Forest,0.7500,0.08
+K-Nearest Neighbors,0.6250,0.00
+Decision Tree,0.8750,0.01

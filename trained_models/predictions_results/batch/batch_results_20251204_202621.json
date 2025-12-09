@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-12-04 20:26:21",
+  "model": {
+    "name": "MLP",
+    "accuracy": 0.875
+  },
+  "total_images": 12,
+  "predictions": [
+    {
+      "image_path": "papka\\fender_stratocaster_чёрный_tremolo.jpg",
+      "image_name": "fender_stratocaster_чёрный_tremolo.jpg",
+      "image_relative_path": "fender_stratocaster_чёрный_tremolo.jpg",
+      "predicted_class": "statocaster",
+      "confidence": 0.9835543036460876,
+      "probabilities": [
+        0.0008503583376295865,
+        0.015423603355884552,
+        0.00017174177628476173,
+        0.9835543036460876
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\ibanez_pc18mh_Натуральный_Статический.jpg",
+      "image_name": "ibanez_pc18mh_Натуральный_Статический.jpg",
+      "image_relative_path": "ibanez_pc18mh_Натуральный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9999585151672363,
+      "probabilities": [
+        0.9999585151672363,
+        7.849743042243063e-07,
+        1.1768626791308634e-05,
+        2.8875499992864206e-05
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\yamaha_ll6are_натуральный_Статический.jpg",
+      "image_name": "yamaha_ll6are_натуральный_Статический.jpg",
+      "image_relative_path": "yamaha_ll6are_натуральный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9997738003730774,
+      "probabilities": [
+        0.9997738003730774,
+        6.860023131594062e-05,
+        0.0001318101421929896,
+        2.574130667198915e-05
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\7004f5db-bcc4-412e-a864-80822c6203b2.jpeg",
+      "image_name": "7004f5db-bcc4-412e-a864-80822c6203b2.jpeg",
+      "image_relative_path": "7004f5db-bcc4-412e-a864-80822c6203b2.jpeg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9888927340507507,
+      "probabilities": [
+        0.9888927340507507,
+        0.0013423222117125988,
+        0.00972975604236126,
+        3.512764669721946e-05
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\666182bc43da0_gibson_lespaul.jpg",
+      "image_name": "666182bc43da0_gibson_lespaul.jpg",
+      "image_relative_path": "666182bc43da0_gibson_lespaul.jpg",
+      "predicted_class": "les paul",
+      "confidence": 0.9948984980583191,
+      "probabilities": [
+        0.0021035191603004932,
+        0.0028066907543689013,
+        0.9948984980583191,
+        0.00019134308968205005
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\5823-17277-large.jpg",
+      "image_name": "5823-17277-large.jpg",
+      "image_relative_path": "5823-17277-large.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9957504272460938,
+      "probabilities": [
+        0.9957504272460938,
+        0.0017291611293330789,
+        0.0024166430812329054,
+        0.00010377386206528172
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\epiphone_hummingbird_Натуральный_Статический.jpg",
+      "image_name": "epiphone_hummingbird_Натуральный_Статический.jpg",
+      "image_relative_path": "epiphone_hummingbird_Натуральный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.998553454875946,
+      "probabilities": [
+        0.998553454875946,
+        9.563347703078762e-05,
+        0.0008880974492058158,
+        0.0004628555034287274
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\prs_custom24.jpg",
+      "image_name": "prs_custom24.jpg",
+      "image_relative_path": "prs_custom24.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9649981260299683,
+      "probabilities": [
+        0.9649981260299683,
+        0.002134589245542884,
+        0.032759517431259155,
+        0.00010773691610665992
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\warwick_corvette.jpg",
+      "image_name": "warwick_corvette.jpg",
+      "image_relative_path": "warwick_corvette.jpg",
+      "predicted_class": "bass",
+      "confidence": 0.9944784641265869,
+      "probabilities": [
+        0.0021211965940892696,
+        0.9944784641265869,
+        0.002556171268224716,
+        0.0008440962410531938
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\yamaha_ll6are_Чёрный_Статический.jpg",
+      "image_name": "yamaha_ll6are_Чёрный_Статический.jpg",
+      "image_relative_path": "yamaha_ll6are_Чёрный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9992062449455261,
+      "probabilities": [
+        0.9992062449455261,
+        0.00019775735563598573,
+        0.0005941601702943444,
+        1.9613923996075755e-06
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\epiphone_lespaul.jpg",
+      "image_name": "epiphone_lespaul.jpg",
+      "image_relative_path": "epiphone_lespaul.jpg",
+      "predicted_class": "les paul",
+      "confidence": 0.9983904361724854,
+      "probabilities": [
+        0.0014158848207443953,
+        0.0001927731791511178,
+        0.9983904361724854,
+        9.826070481722127e-07
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\cort_earthmini.jpg",
+      "image_name": "cort_earthmini.jpg",
+      "image_relative_path": "cort_earthmini.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9913296699523926,
+      "probabilities": [
+        0.9913296699523926,
+        0.006875835359096527,
+        0.001349594327621162,
+        0.0004449470725376159
+      ],
+      "model_name": "MLP",
+      "model_accuracy": 0.875
+    }
+  ]
+}

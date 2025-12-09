@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-12-04 00:02:06",
+  "model": {
+    "name": "SVM_Linear",
+    "accuracy": 0.875
+  },
+  "total_images": 12,
+  "predictions": [
+    {
+      "image_path": "guitars\\raw\\bass\\sire_marcusmiller.jpg",
+      "image_name": "sire_marcusmiller.jpg",
+      "image_relative_path": "raw\\bass\\sire_marcusmiller.jpg",
+      "predicted_class": "bass",
+      "confidence": 0.55540417819264,
+      "probabilities": [
+        0.022365573269498434,
+        0.55540417819264,
+        0.0023671821622817052,
+        0.4198630663755799
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\raw\\statocaster\\fender_stratocaster_белый_tremolo.jpg",
+      "image_name": "fender_stratocaster_белый_tremolo.jpg",
+      "image_relative_path": "raw\\statocaster\\fender_stratocaster_белый_tremolo.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.8085359277687414,
+      "probabilities": [
+        0.8085359277687414,
+        0.0661322133457667,
+        0.05944540004927882,
+        0.06588645883621332
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\processed\\bass\\jackson_concertbass.png",
+      "image_name": "jackson_concertbass.png",
+      "image_relative_path": "processed\\bass\\jackson_concertbass.png",
+      "predicted_class": "bass",
+      "confidence": 0.5416250845671857,
+      "probabilities": [
+        0.03577812899927693,
+        0.5416250845671857,
+        0.006990049873409278,
+        0.41560673656012825
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\train\\bass\\squier_precisionbass.png",
+      "image_name": "squier_precisionbass.png",
+      "image_relative_path": "train\\bass\\squier_precisionbass.png",
+      "predicted_class": "bass",
+      "confidence": 0.5468871424387433,
+      "probabilities": [
+        0.16528795192673848,
+        0.5468871424387433,
+        0.07915959029717061,
+        0.20866531533734742
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\train\\acoustic\\yamaha_ll6are_Чёрный_Статический.png",
+      "image_name": "yamaha_ll6are_Чёрный_Статический.png",
+      "image_relative_path": "train\\acoustic\\yamaha_ll6are_Чёрный_Статический.png",
+      "predicted_class": "acoustic",
+      "confidence": 0.8468710553237191,
+      "probabilities": [
+        0.8468710553237191,
+        0.07891626329399354,
+        0.04658113852299366,
+        0.027631542859293763
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\raw\\acoustic\\seagull_s6.jpg",
+      "image_name": "seagull_s6.jpg",
+      "image_relative_path": "raw\\acoustic\\seagull_s6.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.7763619694941494,
+      "probabilities": [
+        0.7763619694941494,
+        0.09841348613317308,
+        0.06049611795302011,
+        0.06472842641965751
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\processed\\bass\\fender_jazzbass_sunburst_vintage.png",
+      "image_name": "fender_jazzbass_sunburst_vintage.png",
+      "image_relative_path": "processed\\bass\\fender_jazzbass_sunburst_vintage.png",
+      "predicted_class": "bass",
+      "confidence": 0.5582969419817854,
+      "probabilities": [
+        0.011776235751998555,
+        0.5582969419817854,
+        0.002375469811607854,
+        0.42755135245460807
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\raw\\statocaster\\fender_stratocaster_чёрный_статический.jpg",
+      "image_name": "fender_stratocaster_чёрный_статический.jpg",
+      "image_relative_path": "raw\\statocaster\\fender_stratocaster_чёрный_статический.jpg",
+      "predicted_class": "statocaster",
+      "confidence": 0.4275318730159027,
+      "probabilities": [
+        0.09789319812019753,
+        0.4040114625633685,
+        0.07056346630053137,
+        0.4275318730159027
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\processed\\bass\\squier_precisionbass.png",
+      "image_name": "squier_precisionbass.png",
+      "image_relative_path": "processed\\bass\\squier_precisionbass.png",
+      "predicted_class": "bass",
+      "confidence": 0.5468871424387433,
+      "probabilities": [
+        0.16528795192673848,
+        0.5468871424387433,
+        0.07915959029717061,
+        0.20866531533734742
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\raw\\acoustic\\68291aff48211_yamaha_ll6are_натуральный_Статический.jpg",
+      "image_name": "68291aff48211_yamaha_ll6are_натуральный_Статический.jpg",
+      "image_relative_path": "raw\\acoustic\\68291aff48211_yamaha_ll6are_натуральный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.823154157288681,
+      "probabilities": [
+        0.823154157288681,
+        0.06298909058675974,
+        0.05321352915058079,
+        0.06064322297397829
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\raw\\acoustic\\epiphone_hummingbird.jpg",
+      "image_name": "epiphone_hummingbird.jpg",
+      "image_relative_path": "raw\\acoustic\\epiphone_hummingbird.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.7732650227300006,
+      "probabilities": [
+        0.7732650227300006,
+        0.12129769635998035,
+        0.018624622040082976,
+        0.08681265886993611
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "guitars\\processed\\acoustic\\ibanez_pc18mh_Натуральный_Статический.png",
+      "image_name": "ibanez_pc18mh_Натуральный_Статический.png",
+      "image_relative_path": "processed\\acoustic\\ibanez_pc18mh_Натуральный_Статический.png",
+      "predicted_class": "acoustic",
+      "confidence": 0.859083019072458,
+      "probabilities": [
+        0.859083019072458,
+        0.07056301222021161,
+        0.02053568464307228,
+        0.0498182840642582
+      ],
+      "model_name": "SVM_Linear",
+      "model_accuracy": 0.875
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Изображение,Предсказанный класс,Уверенность,Модель,Точность модели
+sire_marcusmiller.jpg,bass,55.54%,SVM_Linear,0.8750
+fender_stratocaster_белый_tremolo.jpg,acoustic,80.85%,SVM_Linear,0.8750
+jackson_concertbass.png,bass,54.16%,SVM_Linear,0.8750
+squier_precisionbass.png,bass,54.69%,SVM_Linear,0.8750
+yamaha_ll6are_Чёрный_Статический.png,acoustic,84.69%,SVM_Linear,0.8750
+seagull_s6.jpg,acoustic,77.64%,SVM_Linear,0.8750
+fender_jazzbass_sunburst_vintage.png,bass,55.83%,SVM_Linear,0.8750
+fender_stratocaster_чёрный_статический.jpg,statocaster,42.75%,SVM_Linear,0.8750
+squier_precisionbass.png,bass,54.69%,SVM_Linear,0.8750
+68291aff48211_yamaha_ll6are_натуральный_Статический.jpg,acoustic,82.32%,SVM_Linear,0.8750
+epiphone_hummingbird.jpg,acoustic,77.33%,SVM_Linear,0.8750
+ibanez_pc18mh_Натуральный_Статический.png,acoustic,85.91%,SVM_Linear,0.8750

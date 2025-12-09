@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-12-04 00:01:30",
+  "model": {
+    "name": "Logistic_Regression",
+    "accuracy": 0.875
+  },
+  "total_images": 12,
+  "predictions": [
+    {
+      "image_path": "papka\\ibanez_aeg10ii.jpg",
+      "image_name": "ibanez_aeg10ii.jpg",
+      "image_relative_path": "ibanez_aeg10ii.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9908041872159528,
+      "probabilities": [
+        0.9908041872159528,
+        0.00030772841141263785,
+        0.007050388566243796,
+        0.0018376958063909363
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\ibanez_pc18mh.jpg",
+      "image_name": "ibanez_pc18mh.jpg",
+      "image_relative_path": "ibanez_pc18mh.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9968709607089267,
+      "probabilities": [
+        0.9968709607089267,
+        0.0020539429389110787,
+        0.000842908778461622,
+        0.0002321875737007259
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\gibson_lespaul_Красный_Tune-o-Matic.jpg",
+      "image_name": "gibson_lespaul_Красный_Tune-o-Matic.jpg",
+      "image_relative_path": "gibson_lespaul_Красный_Tune-o-Matic.jpg",
+      "predicted_class": "bass",
+      "confidence": 0.9896735159911151,
+      "probabilities": [
+        0.0003294041048577746,
+        0.9896735159911151,
+        9.576416675920981e-05,
+        0.009901315737267977
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\666182bc43da0_gibson_lespaul.jpg",
+      "image_name": "666182bc43da0_gibson_lespaul.jpg",
+      "image_relative_path": "666182bc43da0_gibson_lespaul.jpg",
+      "predicted_class": "les paul",
+      "confidence": 0.9852858356063126,
+      "probabilities": [
+        0.008331168006955303,
+        0.0025955267187319614,
+        0.9852858356063126,
+        0.0037874696680000558
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\squier_precisionbass.jpg",
+      "image_name": "squier_precisionbass.jpg",
+      "image_relative_path": "squier_precisionbass.jpg",
+      "predicted_class": "bass",
+      "confidence": 0.9792860240542308,
+      "probabilities": [
+        0.01285223100230379,
+        0.9792860240542308,
+        0.0057005345396139,
+        0.002161210403851252
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\4_Красный_Tune-o-Matic.jpg",
+      "image_name": "4_Красный_Tune-o-Matic.jpg",
+      "image_relative_path": "4_Красный_Tune-o-Matic.jpg",
+      "predicted_class": "les paul",
+      "confidence": 0.9922372428736438,
+      "probabilities": [
+        0.007125073712431779,
+        0.00017763484582492765,
+        0.9922372428736438,
+        0.00046004856809954745
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\jackson_concertbass.jpg",
+      "image_name": "jackson_concertbass.jpg",
+      "image_relative_path": "jackson_concertbass.jpg",
+      "predicted_class": "bass",
+      "confidence": 0.9896735159911151,
+      "probabilities": [
+        0.0003294041048577746,
+        0.9896735159911151,
+        9.576416675920981e-05,
+        0.009901315737267977
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\taylor_814ce.jpg",
+      "image_name": "taylor_814ce.jpg",
+      "image_relative_path": "taylor_814ce.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9919663011993918,
+      "probabilities": [
+        0.9919663011993918,
+        0.0014066800947179652,
+        0.006328622644914058,
+        0.0002983960609762509
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\epiphone_hummingbird_Натуральный_Статический.jpg",
+      "image_name": "epiphone_hummingbird_Натуральный_Статический.jpg",
+      "image_relative_path": "epiphone_hummingbird_Натуральный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9902376542468942,
+      "probabilities": [
+        0.9902376542468942,
+        0.0023728236948895743,
+        0.00589203007285654,
+        0.0014974919853595367
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\5823-17277-large.jpg",
+      "image_name": "5823-17277-large.jpg",
+      "image_relative_path": "5823-17277-large.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.952798059725481,
+      "probabilities": [
+        0.952798059725481,
+        0.039335354077274905,
+        0.007502202253701072,
+        0.0003643839435429895
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\22_______________Washburn_Wonderbar.jpg",
+      "image_name": "22_______________Washburn_Wonderbar.jpg",
+      "image_relative_path": "22_______________Washburn_Wonderbar.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9756874504873382,
+      "probabilities": [
+        0.9756874504873382,
+        0.0013177691955443967,
+        0.022302484595107478,
+        0.0006922957220097567
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    },
+    {
+      "image_path": "papka\\epiphone_hummingbird_чёрный_Статический.jpg",
+      "image_name": "epiphone_hummingbird_чёрный_Статический.jpg",
+      "image_relative_path": "epiphone_hummingbird_чёрный_Статический.jpg",
+      "predicted_class": "acoustic",
+      "confidence": 0.9944695179776907,
+      "probabilities": [
+        0.9944695179776907,
+        0.004145551229845122,
+        0.00042799696478715575,
+        0.000956933827676996
+      ],
+      "model_name": "Logistic_Regression",
+      "model_accuracy": 0.875
+    }
+  ]
+}
