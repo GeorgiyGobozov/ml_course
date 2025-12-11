@@ -1,0 +1,97 @@
+path,class,split_type
+photo_guit\train\acoustic\IMG20251211003646.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003442.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003433 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003543 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003547.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003433.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003442 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003650 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003631.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003646 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003650.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003524.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003538 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003547 (2).png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003643.png,acoustic,train
+photo_guit\train\acoustic\IMG20251211003524 (2).png,acoustic,train
+photo_guit\val\acoustic\IMG20251211003425 (2).png,acoustic,val
+photo_guit\val\acoustic\IMG20251211003538.png,acoustic,val
+photo_guit\val\acoustic\IMG20251211003643 (2).png,acoustic,val
+photo_guit\val\acoustic\IMG20251211003543.png,acoustic,val
+photo_guit\test\acoustic\IMG20251211003631 (2).png,acoustic,test
+photo_guit\test\acoustic\IMG20251211003529.png,acoustic,test
+photo_guit\test\acoustic\IMG20251211003529 (2).png,acoustic,test
+photo_guit\test\acoustic\IMG20251211003425.png,acoustic,test
+photo_guit\train\lespaul\IMG20251211003352.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003307.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003304 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003325 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003328.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003304.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003307 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003354 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003336.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003352 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003354.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003310.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003320 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003328 (2).png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003344.png,lespaul,train
+photo_guit\train\lespaul\IMG20251211003310 (2).png,lespaul,train
+photo_guit\val\lespaul\IMG20251211003300 (2).png,lespaul,val
+photo_guit\val\lespaul\IMG20251211003320.png,lespaul,val
+photo_guit\val\lespaul\IMG20251211003344 (2).png,lespaul,val
+photo_guit\val\lespaul\IMG20251211003325.png,lespaul,val
+photo_guit\test\lespaul\IMG20251211003336 (2).png,lespaul,test
+photo_guit\test\lespaul\IMG20251211003314.png,lespaul,test
+photo_guit\test\lespaul\IMG20251211003314 (2).png,lespaul,test
+photo_guit\test\lespaul\IMG20251211003300.png,lespaul,test
+photo_guit\train\stratocaster\IMG20251211003115.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003031.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003027 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003051 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003100.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003027.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003031 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003118 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003104.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003115 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003118.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003034.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003048 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003100 (2).png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003108.png,stratocaster,train
+photo_guit\train\stratocaster\IMG20251211003034 (2).png,stratocaster,train
+photo_guit\val\stratocaster\IMG20251211003025 (2).png,stratocaster,val
+photo_guit\val\stratocaster\IMG20251211003048.png,stratocaster,val
+photo_guit\val\stratocaster\IMG20251211003108 (2).png,stratocaster,val
+photo_guit\val\stratocaster\IMG20251211003051.png,stratocaster,val
+photo_guit\test\stratocaster\IMG20251211003104 (2).png,stratocaster,test
+photo_guit\test\stratocaster\IMG20251211003043.png,stratocaster,test
+photo_guit\test\stratocaster\IMG20251211003043 (2).png,stratocaster,test
+photo_guit\test\stratocaster\IMG20251211003025.png,stratocaster,test
+photo_guit\train\explorer\IMG20251211002946.png,explorer,train
+photo_guit\train\explorer\IMG20251211002845.png,explorer,train
+photo_guit\train\explorer\IMG20251211002838 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002928 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002932.png,explorer,train
+photo_guit\train\explorer\IMG20251211002838.png,explorer,train
+photo_guit\train\explorer\IMG20251211002845 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002956 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002935.png,explorer,train
+photo_guit\train\explorer\IMG20251211002946 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002956.png,explorer,train
+photo_guit\train\explorer\IMG20251211002908.png,explorer,train
+photo_guit\train\explorer\IMG20251211002926 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002932 (2).png,explorer,train
+photo_guit\train\explorer\IMG20251211002940.png,explorer,train
+photo_guit\train\explorer\IMG20251211002908 (2).png,explorer,train
+photo_guit\val\explorer\IMG20251211002834 (2).png,explorer,val
+photo_guit\val\explorer\IMG20251211002926.png,explorer,val
+photo_guit\val\explorer\IMG20251211002940 (2).png,explorer,val
+photo_guit\val\explorer\IMG20251211002928.png,explorer,val
+photo_guit\test\explorer\IMG20251211002935 (2).png,explorer,test
+photo_guit\test\explorer\IMG20251211002919.png,explorer,test
+photo_guit\test\explorer\IMG20251211002919 (2).png,explorer,test
+photo_guit\test\explorer\IMG20251211002834.png,explorer,test

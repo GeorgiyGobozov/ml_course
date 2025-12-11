@@ -1,4 +1,14 @@
 # prediction_with_choice.py - ИСПРАВЛЕННАЯ ВЕРСИЯ
+"""
+Модуль для предсказаний с выбором модели и визуализацией результатов.
+
+Предоставляет функциональность для:
+- Загрузки и выбора обученных моделей
+- Предсказания классов изображений
+- Визуализации результатов
+- Сравнения нескольких моделей
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -12,9 +22,8 @@ import os
 from pathlib import Path
 from datetime import datetime
 import warnings
+
 warnings.filterwarnings('ignore')
-import json
-import numpy as np
 
 class NumpyEncoder(json.JSONEncoder):
     """Кастомный JSON энкодер для numpy типов"""
@@ -641,7 +650,6 @@ class AdvancedImagePredictor:
                 spine.set_edgecolor(edge_color)
                 spine.set_linewidth(linewidth)
             
-            ax.set_title(result['image_name'], fontsize=9, pad=5)
             ax.text(0.5, -0.1, pred_text, transform=ax.transAxes, fontsize=8,
                    ha='center', va='top', color='darkblue', fontweight='bold')
             

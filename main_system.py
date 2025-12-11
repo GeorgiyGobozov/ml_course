@@ -1,9 +1,21 @@
 # main_system.py - ГЛАВНАЯ СИСТЕМА С ИНТЕГРАЦИЕЙ ВЫБОРА МОДЕЛИ
+"""
+Главная система распознавания образов с интеграцией выбора модели.
+
+Этот модуль предоставляет интерактивный интерфейс для:
+- Подготовки данных
+- Обучения моделей
+- Предсказания с выбором модели
+- Сравнения моделей
+"""
+
 import argparse
 import sys
 import subprocess
 from pathlib import Path
 import os
+import json
+from datetime import datetime
 
 def print_banner():
     """Печать баннера системы"""

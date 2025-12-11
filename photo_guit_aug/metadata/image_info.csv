@@ -1,0 +1,97 @@
+original_path,processed_path,class,class_idx,original_size,processed_size,mode
+photo_guit_aug\raw\acoustic\IMG20251211003425 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003425 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003425.jpg,photo_guit_aug\processed\acoustic\IMG20251211003425.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003433 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003433 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003433.jpg,photo_guit_aug\processed\acoustic\IMG20251211003433.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003442 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003442 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003442.jpg,photo_guit_aug\processed\acoustic\IMG20251211003442.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003524 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003524 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003524.jpg,photo_guit_aug\processed\acoustic\IMG20251211003524.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003529 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003529 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003529.jpg,photo_guit_aug\processed\acoustic\IMG20251211003529.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003538 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003538 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003538.jpg,photo_guit_aug\processed\acoustic\IMG20251211003538.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003543 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003543 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003543.jpg,photo_guit_aug\processed\acoustic\IMG20251211003543.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003547 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003547 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003547.jpg,photo_guit_aug\processed\acoustic\IMG20251211003547.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003631 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003631 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003631.jpg,photo_guit_aug\processed\acoustic\IMG20251211003631.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003643 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003643 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003643.jpg,photo_guit_aug\processed\acoustic\IMG20251211003643.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003646 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003646 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003646.jpg,photo_guit_aug\processed\acoustic\IMG20251211003646.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003650 (2).jpg,photo_guit_aug\processed\acoustic\IMG20251211003650 (2).png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\acoustic\IMG20251211003650.jpg,photo_guit_aug\processed\acoustic\IMG20251211003650.png,acoustic,0,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003300 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003300 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003300.jpg,photo_guit_aug\processed\lespaul\IMG20251211003300.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003304 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003304 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003304.jpg,photo_guit_aug\processed\lespaul\IMG20251211003304.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003307 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003307 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003307.jpg,photo_guit_aug\processed\lespaul\IMG20251211003307.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003310 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003310 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003310.jpg,photo_guit_aug\processed\lespaul\IMG20251211003310.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003314 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003314 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003314.jpg,photo_guit_aug\processed\lespaul\IMG20251211003314.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003320 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003320 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003320.jpg,photo_guit_aug\processed\lespaul\IMG20251211003320.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003325 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003325 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003325.jpg,photo_guit_aug\processed\lespaul\IMG20251211003325.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003328 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003328 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003328.jpg,photo_guit_aug\processed\lespaul\IMG20251211003328.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003336 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003336 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003336.jpg,photo_guit_aug\processed\lespaul\IMG20251211003336.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003344 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003344 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003344.jpg,photo_guit_aug\processed\lespaul\IMG20251211003344.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003352 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003352 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003352.jpg,photo_guit_aug\processed\lespaul\IMG20251211003352.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003354 (2).jpg,photo_guit_aug\processed\lespaul\IMG20251211003354 (2).png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\lespaul\IMG20251211003354.jpg,photo_guit_aug\processed\lespaul\IMG20251211003354.png,lespaul,1,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003025 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003025 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003025.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003025.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003027 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003027 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003027.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003027.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003031 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003031 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003031.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003031.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003034 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003034 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003034.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003034.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003043 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003043 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003043.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003043.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003048 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003048 (2).png,stratocaster,2,"(12000, 9000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003048.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003048.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003051 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003051 (2).png,stratocaster,2,"(12000, 9000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003051.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003051.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003100 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003100 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003100.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003100.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003104 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003104 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003104.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003104.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003108 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003108 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003108.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003108.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003115 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003115 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003115.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003115.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003118 (2).jpg,photo_guit_aug\processed\stratocaster\IMG20251211003118 (2).png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\stratocaster\IMG20251211003118.jpg,photo_guit_aug\processed\stratocaster\IMG20251211003118.png,stratocaster,2,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002834 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002834 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002834.jpg,photo_guit_aug\processed\explorer\IMG20251211002834.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002838 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002838 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002838.jpg,photo_guit_aug\processed\explorer\IMG20251211002838.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002845 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002845 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002845.jpg,photo_guit_aug\processed\explorer\IMG20251211002845.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002908 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002908 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002908.jpg,photo_guit_aug\processed\explorer\IMG20251211002908.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002919 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002919 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002919.jpg,photo_guit_aug\processed\explorer\IMG20251211002919.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002926 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002926 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002926.jpg,photo_guit_aug\processed\explorer\IMG20251211002926.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002928 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002928 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002928.jpg,photo_guit_aug\processed\explorer\IMG20251211002928.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002932 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002932 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002932.jpg,photo_guit_aug\processed\explorer\IMG20251211002932.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002935 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002935 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002935.jpg,photo_guit_aug\processed\explorer\IMG20251211002935.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002940 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002940 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002940.jpg,photo_guit_aug\processed\explorer\IMG20251211002940.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002946 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002946 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002946.jpg,photo_guit_aug\processed\explorer\IMG20251211002946.png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002956 (2).jpg,photo_guit_aug\processed\explorer\IMG20251211002956 (2).png,explorer,3,"(9000, 12000)","(64, 64)",L
+photo_guit_aug\raw\explorer\IMG20251211002956.jpg,photo_guit_aug\processed\explorer\IMG20251211002956.png,explorer,3,"(9000, 12000)","(64, 64)",L

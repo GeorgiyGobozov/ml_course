@@ -1,0 +1,30 @@
+{
+  "dataset_name": "full_guit",
+  "classes": [
+    "acoustic",
+    "lespaul",
+    "stratocaster",
+    "explorer"
+  ],
+  "class_to_idx": {
+    "acoustic": 0,
+    "lespaul": 1,
+    "stratocaster": 2,
+    "explorer": 3
+  },
+  "image_size": [
+    64,
+    64
+  ],
+  "grayscale": true,
+  "augmentation_enabled": false,
+  "augmentation_multiplier": 10,
+  "num_train": 112,
+  "num_val": 24,
+  "num_test": 24,
+  "input_shape": [
+    64,
+    64,
+    1
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_name": "photo_guit_aug",
+  "classes": [
+    "acoustic",
+    "lespaul",
+    "stratocaster",
+    "explorer"
+  ],
+  "class_to_idx": {
+    "acoustic": 0,
+    "lespaul": 1,
+    "stratocaster": 2,
+    "explorer": 3
+  },
+  "image_size": [
+    64,
+    64
+  ],
+  "grayscale": true,
+  "augmentation_enabled": true,
+  "augmentation_multiplier": 10,
+  "num_train": 640,
+  "num_val": 80,
+  "num_test": 16,
+  "input_shape": [
+    64,
+    64,
+    1
+  ]
+}
